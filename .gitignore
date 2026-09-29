@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Databases
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and leftovers
+*.log
+all_code.txt
+*.zip
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Editor
+.vscode/
+.idea/
+
+# Test videos / uploads
+*.mp4
+*.mov
